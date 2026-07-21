@@ -1,7 +1,7 @@
 <p align="center">
   <img src="./assets/mare-wordmark-light.jpg"
        alt="MARÉ — Marine Applied Research and Exploration"
-       width="760">
+       width="400">
 </p>
 
 <p align="center">
